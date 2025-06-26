@@ -5,7 +5,7 @@ This repo contains the Draw.io files that were used in the creation of [this vid
 
 If you'd like to run the animations in your browser, you can click the insanely large URL at the bottom of this readme. It includes the `p=anim` query parameter that I mention **must** be in the URL in order for it to work.
 
-**NOTE** that you may have to copy and paste the link directly into your address bar. When I tried to add the link to text in markdown, VS Code concatenated the link every time I tested it instead of carrying it all over to the browser. Without copying and pasting the full URL, you may run into the same problem.
+**NOTE** that you have to copy and paste the link directly into your address bar. When I tried to add the link to text in markdown, VS Code concatenated the link every time I tested it instead of carrying it all over to the browser. Without copying and pasting the full URL, you may run into the same problem.
 
 The two draw.io projects in this repo are the same two projects used in the video:
 - simple.drawio is the very basic one that I used to walk through the steps of adding animations.
